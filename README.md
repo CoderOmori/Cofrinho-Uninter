@@ -1,20 +1,3 @@
-# 💰 Projeto Cofrinho em Java
-
-Este projeto implementa um **Cofrinho virtual** em Java, utilizando os conceitos de **Programação Orientada a Objetos (POO)**:  
-**Herança, Polimorfismo, Encapsulamento e Abstração**.  
-
----
-
-## 🚀 Funcionalidades
-O programa permite ao usuário:
-
-- ✅ **Adicionar moedas** de diferentes valores e países (Real, Dólar, Euro)  
-- ✅ **Remover moedas específicas** do cofrinho  
-- ✅ **Listar todas as moedas** armazenadas  
-- ✅ **Calcular o total convertido para Reais (R$)**  
-
----
-
 ## 📂 Estrutura de Arquivos
 
 # 💰 Projeto Cofrinho em Java
